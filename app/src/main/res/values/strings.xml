@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileProviderSample</string>
+    <string name="action_license">License</string>
+</resources>
